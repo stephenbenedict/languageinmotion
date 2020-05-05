@@ -1,0 +1,27 @@
+Title: Account information
+
+----
+
+Username_label: Username:
+
+----
+
+Email_label: Emails go to
+
+----
+
+Password_label:
+New password
+(leave blank for no change)
+
+----
+
+Submit_button: Save
+
+----
+
+Update_subscription_link: Manage your subscription
+
+----
+
+Delete_account_link: Delete your account (confirm on next page)

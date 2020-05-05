@@ -1,0 +1,36 @@
+// Typography
+// Modular Scale: http://www.modularscale.com/?17&px&1.067&web&text 
+
+$english-font: "Lato", sans-serif;
+$japanese-font-serif: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "MS Mincho", "Noto Sans", "Noto Sans CJK", "Droid Sans", serif;
+$japanese-font-sans-serif: "游ゴシック" , "Yu Gothic" , "游ゴシック体" , "YuGothic" , "ヒラギノ角ゴ Pro W3" , "Hiragino Kaku Gothic Pro" , "Meiryo UI" , "メイリオ" , Meiryo , "ＭＳ Ｐゴシック" , "MS PGothic" , sans-serif;
+
+// rem units
+$scale-x: 0.72; // 11.52px
+$scale-y: 0.72; // 11.52px
+$scale-z: 0.875; // 13.994px
+$scale-1: 1.063; // 17px
+$scale-2: 1.134; // 18.139px
+$scale-3: 1.21; // 19.354px
+$scale-4: 1.469; // 23.511px
+$scale-5: 1.785; // 28.56px
+$scale-6: 2.032; // 32.516px
+$scale-7: 2.314; // 37.019px
+
+$wrapper-width: 632.16px; // = 2.634 * 15
+$book-width: 716.45px; // = 2.634 * 17
+$toolbar-height: $scale-4 * 2;
+$wrapper-side-padding: $scale-y;
+
+// Colors
+
+$black: #1E1E1E;
+$white: #FFFFFF;
+$cream: #FAF7F5;
+$gray: #C8C8C8;
+$dark-gray: #9E9E9E;
+$red: #c90926;
+$brown: #98623c;
+$yellow: #e6b422;
+$ocha: #a1a46d;
+$green: #29905e;

@@ -1,0 +1,17 @@
+Title: Do you want to delete your account?
+
+----
+
+Text_nonsubscriber: Are you sure you want to delete your account? All of your data, including vocabulary records and bookmarks, will be deleted. (link: profile text: Wrong turn! Back to my profile. class: btn)
+
+----
+
+Text_subscriber: Are you sure you want to delete your account? All of your data, including vocabulary records and bookmarks, will be deleted and your subscription canceled. (link: profile text: Wrong turn! Back to my profile. class: btn)
+
+----
+
+Password_confirm_label: Type in your password to confirm
+
+----
+
+Submit_button: Yes, delete my account

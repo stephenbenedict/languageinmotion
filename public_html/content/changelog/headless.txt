@@ -1,0 +1,21 @@
+Title: Changelog
+
+----
+
+Text:
+
+2016/07/29
+
+- Added labels indicating book difficulty level.
+- Simplified fluency highlighted view (removed superfluous underline).
+- Fixed incorrect Japanese font displaying on Windows computers.
+
+2016/07/15
+
+- Fixed text from shifting in Chrome and Safari when pulling up words in dictionary.
+- Fixed main navigation from breaking into two lines on mobile devices.
+- Fixed furigana from being revealed before clicking "Show Definition" when navigating uses in study mode.
+
+2016/07/04
+
+- Published first 10 books.

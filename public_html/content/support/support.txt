@@ -1,0 +1,42 @@
+Title: Support
+
+----
+
+Text:
+
+Q: Is a credit card necessary to sign up for a free account?
+A: No. No credit card is necessary.
+
+Q: Is there a time limit for a free account?
+A: No. You may use your free account forever.
+
+Q: Can I subscribe after creating a free account?
+A: Yes, you can subscribe anytime you want to, and cancel anytime, then resubscribe, etc.
+
+Q: What payment methods do you accept?
+A: Credit and debit cards of the following brands: Visa, MasterCard, American Express, Discover, JCB, and Diners Club.
+
+Q: How secure is making payments?
+A: All payment information is encrypted by and processed through (link: https://stripe.com/about text: Stripe class: btn).
+
+Q: Which browsers are supported?
+A: Chrome, Firefox, and Safari. Due to ruby (furigana) display issues, Internet Explorer is not supported at this time. 
+
+If you have any questions or concerns, or trouble using the site, please email me: stephen[at]languageinmotion.jp and I will get back to you as soon as possible.
+
+# Tips
+
+- After you pull up a definition, click anywhere outside of it to close it.
+- For additional word research, try out the free online Japanese dictionary (link: http://www.weblio.jp/ text: Weblio class: btn).
+
+# If you find editorial errors...
+
+Every book has been reviewed multiple times over to ensure each word has an accurate definition. However, I am bound to have slipped up on some. If you find any such editorial errors, let me know and I will try to fix them as soon as possible.
+
+## Acknowledgements
+
+All book texts have been obtained from (link: http://www.aozora.gr.jp/ text: Aozora Bunko class: btn), a digital library of Japanese books in the public domain.
+
+Language in Motion uses the EDICT dictionary which is under copyright of (link: http://edrdg.org/ text: The Electronic Dictionary Research and Development Group at Monash University class: btn). However, some definitions have been edited and/or written by me and I claim full fame/infamy for those.
+
+This site uses the beautiful typeface (link: http://www.latofonts.com/ text: Lato class: btn) by Łukasz Dziedzic.

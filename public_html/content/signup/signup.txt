@@ -1,0 +1,19 @@
+Title: Sign Up
+
+----
+
+Title_subscriber: Create an account
+(subscription payment on next page)
+
+----
+
+Title_nonsubscriber: Create a free account
+(free forever, with access to 3 books)
+
+----
+
+Submit_button: Create account
+
+----
+
+Taken_username_alert: That username is taken

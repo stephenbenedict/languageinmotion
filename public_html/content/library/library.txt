@@ -1,0 +1,49 @@
+Title: Library
+
+----
+
+Book-link: Open
+
+----
+
+Sign-up-link: Free to Read
+
+----
+
+Subscribe-link: Subscribe to Read
+
+----
+
+Vocabulary-label: Fluency:
+
+----
+
+New_label: Hot off the press!
+
+----
+
+New_edition_label: Updated (editorial corrections)
+
+----
+
+Welcome_message: Welcome! Click the title you see right below to begin reading.
+
+----
+
+Grammar_link: Grammar guide
+
+----
+
+Site_updates:
+
+id: 2016-08-04-001
+text: |
+  New and improved:
+  <br>
+  - You now have 2 more (3 in total) free books (look below)
+  <br>
+  - Subscription now available for ¥2,500 per year
+
+----
+
+IE_warning: Looks like you're using an unsupported browser (Internet Explorer). To make sure everything works properly, please use (link: https://www.google.com/chrome/browser/desktop/index.html text: Chrome class: btn), (link: https://www.mozilla.org/en-US/firefox/desktop/ text: Firefox class: btn), or (link: http://www.apple.com/safari/ text: Safari class: btn). Sorry for the trouble!

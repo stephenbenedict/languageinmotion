@@ -1,0 +1,5 @@
+Title: Error
+
+----
+
+Text: Sorry, that page couldn't be found. (link: / text: Go to the homepage. class: btn)

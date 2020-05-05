@@ -1,0 +1,17 @@
+Title: Cancel your subscription
+
+----
+
+Text: Are you sure you want to cancel your subscription? After canceling, you will no longer have access to all books (you will have access to just 3 books: トロッコ *Trolley*, 鼻 *The Nose*, and 羅生門 *Rashōmon* by Akutagawa Ryūnosuke).
+
+Your vocabulary records for all books will *not* be deleted, so if you feel like subscribing again, you can pick up where you left off.
+
+(link: profile text: Changed my mind. Back to my profile. class: btn)
+
+----
+
+Password_confirm_label: Type in your password to confirm
+
+----
+
+Submit_button: Yes, cancel my subscription

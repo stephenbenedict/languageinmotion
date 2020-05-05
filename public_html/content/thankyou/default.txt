@@ -1,0 +1,16 @@
+Title: Your account has been deleted (and thank you!)
+
+----
+
+Text:
+
+Your account and all related data have been deleted and an email sent to notify you of it.
+
+If you were also a subscriber, then your subscription has also been canceled and an email sent to notify you of it.
+
+Thank you for trying out Language in Motion! I hope you found it useful.
+
+<span class="color-gray">
+Sincerely,
+Stephen
+</span>

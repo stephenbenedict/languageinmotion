@@ -1,0 +1,63 @@
+Title: How much grammar you must understand
+
+----
+
+Text: 
+
+## Suffixes, Auxiliaries, and Stems
+
+Whenever possible, the most rudimentary part of a word is linked to a definition, and suffixes that change its tense, auxiliary verbs, and -te stems are included only when it would be confusing not to or would read awkwardly.
+
+So you should know, for example, that if the underlined portion in <span class="btn">話し</span>た has the definition “to speak”, that the た converts the word into the past tense “said”, and that 話し on its own is not a verb.
+
+There are two reasons for this unorthodox editing:
+
+1. The dictionary used in Language in Motion provides only the present tense of verbs, so ommitting the suffix makes this clear.
+2. This allows you to record your fluency for one verb instead of six that vary only in tense, auxiliaries, etc. For example, the following:
+
+
+<span class="btn">話し</span>た
+<span class="btn">話し</span>て
+<span class="btn">話し</span>たい
+<span class="btn">話し</span>ます
+<span class="btn">話し</span>ました
+<span class="btn">話し</span>ません
+
+will all have one definition (“to speak”) linked to the underlined portion.
+
+Exceptions:
+
+1. Unavoidable verb-negating suffixes
+
+    If a verb-negating suffix must be included like:
+    
+    <span class="btn">出来ない</span>はずはない
+    
+    the definition will be in the negative form: “unable to do”.
+
+2. Unavoidable auxiliary verbs
+
+    Sometimes auxiliary verbs need to be included like: 
+    
+    <span class="btn">見られ</span>る
+    <span class="btn">見られ</span>た
+    <span class="btn">見られ</span>て
+    
+    In these cases, the definition will be “to see” and it is up to you to discern that the auxiliary verb changes its meaning to “to be able to see”, “was able to be seen”, and “to be able to see...”.
+
+3. っ and ん
+
+    If the verb is followed immediately by っ or ん like:
+    
+    彼は<span class="btn">言った</span>
+    彼は<span class="btn">転んだ</span>
+    
+    the suffix or stem will be included but the definition will remain in the present tense (e.g., “to say”, “to fall down”). It is up to you to discern the tense.
+
+## Alternate Meanings
+
+Frequently, words will have multiple alternate meanings. When you pull up the definition for a word, all alternate meanings are displayed and it is up to you to discern the correct meaning from the text’s context.
+
+This preserves puns and other nuances and also allows you to record your fluency for one word instead of many similar ones.
+
+## Got that? Then you are good to go.

@@ -1,0 +1,13 @@
+Title: Your subscription has been canceled (and thank you)
+
+----
+
+Text:
+
+Your subscription has been canceled and your payment details removed from Language in Motion's payment service provider. An email has been sent to you to notify you of it.
+
+As a non-subscriber, you still have access to 1 book (鼻 *The Nose* by Akutagawa Ryūnosuke).
+
+Thank you for having subscribed. I hope you found it useful!
+
+(link: profile text: Go back to your profile. class: btn)

@@ -1,0 +1,12 @@
+log
+Plan.txt
+.DS_Store
+/public_html/site/accounts
+/public_html/assets/avatars
+/public_html/assets/.sass-cache
+/public_html/thumbs/*
+edict.sqlite
+userdata/*/
+*~
+*.swp
+*.swo

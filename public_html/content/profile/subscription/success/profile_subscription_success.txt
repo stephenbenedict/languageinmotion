@@ -1,0 +1,5 @@
+Title: Thank you for subscribing
+
+----
+
+Text: Thank you for becoming a subscriber at Language in Motion! I hope you enjoy all the books that are now available to you in the library. An email has been sent to you as confirmation of your subscription. You will also receive an email letting you know that your first payment was processed. (link: library text: Got it. Take me to the library class: btn).

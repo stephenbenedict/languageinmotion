@@ -1,0 +1,14 @@
+Payment_failed_email_subject: Language in Motion: Your most recent invoice payment failed
+
+----
+
+Payment_failed_email_body:
+
+Hi there,
+
+Unfortunately your most recent invoice payment for {$amount} for your Language in Motion subscription was declined. This could be due to a change in your card number or your card expiring, cancelation of your credit card, or the bank not recognizing the payment and taking action to prevent it.
+
+Please update your payment information as soon as possible by logging in here: https://languageinmotion.jp/login
+
+Sincerely,
+Stephen

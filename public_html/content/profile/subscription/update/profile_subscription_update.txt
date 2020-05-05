@@ -1,0 +1,29 @@
+Title: Billing information
+
+----
+
+Number_label: Card number
+
+----
+
+Expiration_label: Expiration
+
+----
+
+CVC_label: CVC
+
+----
+
+Submit_button: Update billing information
+
+----
+
+Form_success: Your billing information has been updated.
+
+----
+
+Security_disclaimer: Your billing information is securely processed through: 
+
+----
+
+Cancel_subscription_link: Cancel your subscription (confirm on next page)

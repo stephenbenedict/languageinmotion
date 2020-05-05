@@ -1,0 +1,78 @@
+@mixin font-size($sizeValue) {
+  font-size: ($sizeValue * 16) + px;
+  font-size: $sizeValue + rem;
+}
+
+@function strip-unit($num) {
+  @return $num / ($num * 0 + 1);
+}
+
+@mixin rem($property, $values...) {
+  $max: length($values);
+  $pxValues: '';
+  $remValues: '';
+
+  @for $i from 1 through $max {
+    $value: strip-unit(nth($values, $i));
+    $pxValues: #{$pxValues + $value*16}px;
+
+    @if $i < $max {
+      $pxValues: #{$pxValues + " "};
+    }
+  } 
+
+  @for $i from 1 through $max {
+    $value: strip-unit(nth($values, $i));
+    $remValues: #{$remValues + $value}rem;
+
+    @if $i < $max {
+      $remValues: #{$remValues + " "};
+    }
+  } 
+  
+  #{$property}: $pxValues; 
+  #{$property}: $remValues; 
+}
+
+@mixin border-bottom($color) {
+  background-image: -webkit-linear-gradient(to bottom, rgba(255,255,255,0) 94%, $color 98%, $color 100%) !important;
+  background-image: -moz-linear-gradient(to bottom, rgba(255,255,255,0) 94%, $color 98%, $color 100%) !important;
+  background-image: -o-linear-gradient(to bottom, rgba(255,255,255,0) 94%, $color 98%, $color 100%) !important;
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0) 94%, $color 98%, $color 100%) !important;
+}
+
+@mixin border-bottom-ruby() {
+  background-image: -webkit-linear-gradient(180deg, rgba(0,0,0,0), rgba(0,0,0,0) 91%, $gray 91.1%, $gray 94%, rgba(0,0,0,0) 98.1%, rgba(0,0,0,0));
+  background-image: -moz-linear-gradient(180deg, rgba(0,0,0,0), rgba(0,0,0,0) 91%, $gray 91.1%, $gray 94%, rgba(0,0,0,0) 98.1%, rgba(0,0,0,0));
+  background-image: -o-linear-gradient(180deg, rgba(0,0,0,0), rgba(0,0,0,0) 91%, $gray 91.1%, $gray 94%, rgba(0,0,0,0) 98.1%, rgba(0,0,0,0));
+  background-image: linear-gradient(180deg, rgba(0,0,0,0), rgba(0,0,0,0) 91%, $gray 91.1%, $gray 94%, rgba(0,0,0,0) 98.1%, rgba(0,0,0,0));
+}
+
+@mixin border-bottom-thick($color) {
+  background-image: -webkit-linear-gradient(to bottom, rgba(255,255,255,0) 91%, $color 95%, $color 100%);
+  background-image: -moz-linear-gradient(to bottom, rgba(255,255,255,0) 91%, $color 95%, $color 100%);
+  background-image: -o-linear-gradient(to bottom, rgba(255,255,255,0) 91%, $color 95%, $color 100%);
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0) 91%, $color 95%, $color 100%);
+}
+
+@mixin prefix($property, $value) {
+  -webkit-#{$property}: $value;
+  -moz-#{$property}: $value;
+  -ms-#{$property}: $value;
+  -o-#{$property}: $value;
+  #{$property}: $value;
+}
+
+@mixin breakpoint($point) {
+  @if $point == phone {
+    @media (max-width: $book-width)  { @content; }
+  }
+
+  @if $point == tablet {
+    @media (max-width: 768px)  { @content; }
+  }
+
+  @if $point == mobile {
+    @media (max-width: $book-width)  { @content; }
+  }
+}
